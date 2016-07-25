@@ -1,4 +1,4 @@
-# Backlog-Grooming# Backlog-Grooming
+# Backlog-Grooming
 
 Présentation de l'atelier "Example Mapping"
 Créé par Matt Wyne (Speaker, co-fondateur et développeur chez Cucumber) et présenté à l'Agile 2015 à WDC
